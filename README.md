@@ -75,7 +75,12 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+Document Object Model it allows programs to manipulate the page's content
 2. What is an event?
+events are actions that occur in the system when you program
 3. What is an event listener?
+its a procedure in JS that waits for an event to occur
 4. Why would we convert a NodeList into an Array?
+its an object which is not a real array. we need to convert it to an array in case we need to use array methods
 5. What is a component?
+components have the same purpose as JS functions but work to return HTML from a render() function.
